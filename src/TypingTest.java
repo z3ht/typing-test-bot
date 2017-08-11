@@ -42,7 +42,7 @@ public class TypingTest {
 		initializeUpperCaseKeys();
 		
 		try {
-			Thread.sleep(1000 - (System.currentTimeMillis()-startTime));
+			Thread.sleep(1000 - (System.currentTimeMillis()-startTime)); // Change 1000 to 2000 for a 2 second delay instead of one
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
