@@ -49,7 +49,7 @@ public class TypingTest {
 		
 		startTime = System.currentTimeMillis();
 		int counter = 0;
-		while (System.currentTimeMillis() - startTime < 10) {
+		while (System.currentTimeMillis() - startTime < 10) {  // Change 10 to 60000 if you would like to do a one minute test
 			String line = input.get(counter % input.size());
 			for (char c : line.toCharArray()) {
 				long beginTime = System.currentTimeMillis();
