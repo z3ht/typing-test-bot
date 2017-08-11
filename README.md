@@ -3,7 +3,7 @@ A bot made for TypeRacer at play.typeracer.com/
 
 Setting this bot up is very simple, but instructions must be followed carefully.
 
-Either create a file called "Typing Test Text.txt" in the same folder ad your jar file or double click your Typing Test.jar file
+Either create a file called "Typing Test Text.txt" in the same folder as your jar file or double click your Typing Test.jar file
 In the newly created text file, simply copy and paste the text you would like it to type
 
 This is a little tricky on Type Racer, but I'll tell you how...
